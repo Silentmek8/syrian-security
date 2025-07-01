@@ -33,7 +33,7 @@ You can download the script manually or clone the GitHub repository (if you uplo
 
 Example manual download:
 
-wget https://your-domain-or-github-url/sc.sh
+wget https://github.com/Silentmek8/syrian-security/blob/main/sc.sh
 chmod +x sc.sh
 
 =========================
