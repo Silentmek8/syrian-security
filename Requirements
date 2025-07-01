@@ -1,0 +1,14 @@
+📦 Requirements
+
+bash
+jq
+curl
+
+figlet (optional, for banner)
+
+Optional: lolcat for colored banners
+
+Install dependencies on Debian/Ubuntu:
+
+sudo apt update
+sudo apt install curl jq figlet
